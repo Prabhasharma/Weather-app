@@ -3,7 +3,7 @@
 A simple and responsive Weather App that provides real-time weather updates based on city search. It fetches live weather data using the OpenWeather API and displays key weather information such as temperature, humidity, and wind speed.
 
 ## 🚀 Live Demo
-🔗 [Weather App](https://sushantshinde7.github.io/weather-app/)
+🔗 [Weather App](https://sushantshinde7.github.io/Weather-App/)
 
 ## 📌 Features
 ✅ Search weather by city name  
