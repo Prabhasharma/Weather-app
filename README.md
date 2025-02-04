@@ -1,17 +1,59 @@
-Developed a modern Weather App using HTML, CSS, and JavaScript that fetches real-time weather data from an external API. The app provides dynamic weather updates, including temperature, humidity, wind speed, and weather conditions, along with visually appealing icons representing the forecast.
+# 🌦️ Weather App
 
-Tech Stack: Frontend: HTML, CSS, JavaScript
-API: OpenWeatherMap API 
-Promises & Fetch API: Handling asynchronous data requests 
-Icon Library: Font Awesome 
-Deployment: Hosted on GitHub Pages
+A simple and responsive Weather App that provides real-time weather updates based on city search. It fetches live weather data using the OpenWeather API and displays key weather information such as temperature, humidity, and wind speed.
 
-Key Features:
+## 🚀 Live Demo
+🔗 [Weather App](https://sushantshinde7.github.io/weather-app/)
 
-✔ Fetches real-time weather data using Fetch API & Promises
-✔ Displays temperature, humidity, wind speed, and weather conditions
-✔ Uses an icon library to visually represent weather conditions 
-✔ Implements error handling for invalid locations or network issues
-✔ Responsive design for desktop and mobile devices ✔ Hosted live for public access
+## 📌 Features
+✅ Search weather by city name  
+✅ Displays temperature, humidity, wind speed  
+✅ Dynamic weather icons based on conditions  
+✅ Responsive design for mobile and desktop  
+✅ Error handling for invalid city names  
 
-GitHub Repo:
+## 🛠️ Tech Stack
+- **Frontend**: HTML, CSS, JavaScript  
+- **API**: OpenWeather API  
+- **Other Tools**: Fetch API  
+
+## 🔧 Installation
+Follow these steps to set up the project locally:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/sushantshinde7.github.io/weather-app.git
+Navigate to the project directory:
+sh
+Copy
+Edit
+cd weather-app
+Open index.html in your browser.
+
+🌍 API Usage
+This app uses the OpenWeather API to fetch real-time weather data.
+To use it with your own API key:
+Sign up on OpenWeather and get an API key.
+Replace "YOUR_API_KEY" in the JavaScript file with your actual API key.
+
+🖼️ Screenshots
+### Home Page  
+![Home Page](screenshots/weather-homepage.png)
+
+### Weather Search Example  
+![Weather Search](screenshots/weather-app-search.png)
+
+
+🤝 Contributing
+If you’d like to contribute:
+
+Fork this repository.
+Create a feature branch (git checkout -b feature-name).
+Commit your changes (git commit -m "Add new feature").
+Push to your branch (git push origin feature-name).
+Open a Pull Request.
+
+⭐ If you like this project, consider giving it a star on GitHub! ⭐
+
+
+THANK YOU.
